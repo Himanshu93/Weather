@@ -1,0 +1,17 @@
+F:\work\UC\16 Spring\Business Intelligence\Team Project\BIproject\BIproject\bin\Release\BIproject.exe.config
+F:\work\UC\16 Spring\Business Intelligence\Team Project\BIproject\BIproject\bin\Release\BIproject.exe
+F:\work\UC\16 Spring\Business Intelligence\Team Project\BIproject\BIproject\bin\Release\BIproject.pdb
+F:\work\UC\16 Spring\Business Intelligence\Team Project\BIproject\BIproject\bin\Release\MongoDB.Bson.dll
+F:\work\UC\16 Spring\Business Intelligence\Team Project\BIproject\BIproject\bin\Release\MongoDB.Driver.Core.dll
+F:\work\UC\16 Spring\Business Intelligence\Team Project\BIproject\BIproject\bin\Release\MongoDB.Driver.dll
+F:\work\UC\16 Spring\Business Intelligence\Team Project\BIproject\BIproject\bin\Release\MongoDB.Driver.Legacy.dll
+F:\work\UC\16 Spring\Business Intelligence\Team Project\BIproject\BIproject\bin\Release\Newtonsoft.Json.dll
+F:\work\UC\16 Spring\Business Intelligence\Team Project\BIproject\BIproject\bin\Release\MongoDB.Bson.xml
+F:\work\UC\16 Spring\Business Intelligence\Team Project\BIproject\BIproject\bin\Release\MongoDB.Driver.xml
+F:\work\UC\16 Spring\Business Intelligence\Team Project\BIproject\BIproject\bin\Release\MongoDB.Driver.Legacy.xml
+F:\work\UC\16 Spring\Business Intelligence\Team Project\BIproject\BIproject\bin\Release\Newtonsoft.Json.xml
+F:\work\UC\16 Spring\Business Intelligence\Team Project\BIproject\BIproject\obj\Release\BIproject.exe
+F:\work\UC\16 Spring\Business Intelligence\Team Project\BIproject\BIproject\obj\Release\BIproject.pdb
+G:\Himanshu\Business Intelligence Project\BIproject\BIproject\bin\Release\BIproject.exe.config
+G:\Himanshu\Business Intelligence Project\BIproject\BIproject\obj\Release\BIproject.exe
+G:\Himanshu\Business Intelligence Project\BIproject\BIproject\obj\Release\BIproject.pdb
